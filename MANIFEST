@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Catalyst-Plugin-Shortcut-urifor.t
+lib/Catalyst/Plugin/Shortcut/urifor.pm
+META.yml                                 Module meta-data (added by MakeMaker)
